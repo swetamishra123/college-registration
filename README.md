@@ -56,7 +56,7 @@ g++ -o college_registration college_registration.cpp
 
 ## Contributors
 
-- [Your Name](https://github.com/swetamishra123)
+- [swetamishra123](https://github.com/swetamishra123)
 
 ## License
 
